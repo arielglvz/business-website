@@ -39,11 +39,11 @@ const OurExperts = () => {
                       {employee.name}
                     </h3>
                     <p className="text-xs text-gray-400 mt-0.5">
-                      {employee.title}
+                      {employee.role}
                     </p>
                   </div>
                   <span className="shrink-0 px-2.5 py-1 rounded-full text-xs font-medium bg-[#dfbea6]/30 text-[#7a4f35]">
-                    {employee.role}
+                    {employee.field}
                   </span>
                 </div>
               </div>
