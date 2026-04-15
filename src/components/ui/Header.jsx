@@ -1,4 +1,4 @@
-import { CompanyLogo } from "@/assets/svg"
+import { CompanyLogo, LogoPlaceholder } from "@/assets/svg"
 import { cn } from "../../lib/cn"
 import { navigations } from "@/data/navigation"
 import { FaArrowRight } from "react-icons/fa"
@@ -13,9 +13,9 @@ const Header = ({ scrolled, handleScroll, activeSection }) => {
       )}
     >
       <div className="max-w-7xl mx-auto px-6 md:px-10 flex items-center justify-between h-20 gap-4">
-        <CompanyLogo
+        <LogoPlaceholder
           className={cn(
-            "h-9 w-auto cursor-pointer transition-all",
+            "min-h-9 w-auto cursor-pointer transition-all",
             !scrolled ? "brightness-0 invert" : "brightness-100",
           )}
           onClick={() => handleScroll("home")}
