@@ -50,7 +50,7 @@ function App() {
     const el = document.getElementById(id)
     if (!el) return
 
-    const headerOffset = 20 // match your header height (h-20 = 80px)
+    const headerOffset = 0 // match your header height (h-20 = 80px)
 
     const elementPosition = el.getBoundingClientRect().top
     const offsetPosition = elementPosition + window.scrollY - headerOffset
@@ -72,7 +72,7 @@ function App() {
       />
       <Home handleScroll={handleScroll} />
       <Services handleScroll={handleScroll} />
-      <HowItWorks />
+      <HowItWorks handleScroll={handleScroll} />
       <OurStory />
       <OurExperts />
       <Faqs handleScroll={handleScroll} />

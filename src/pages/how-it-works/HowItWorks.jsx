@@ -4,7 +4,7 @@ import { RiHeartLine } from "react-icons/ri"
 import { RiFlowChart } from "react-icons/ri"
 import { RiBarChartGroupedLine } from "react-icons/ri"
 
-const HowItWorks = () => {
+const HowItWorks = ({ handleScroll }) => {
   return (
     <section id="how-it-works" className="py-24 md:py-32 bg-white">
       <div className="max-w-7xl mx-auto px-6 md:px-10">
@@ -21,7 +21,7 @@ const HowItWorks = () => {
               an extension of your business. You hand-select the people who are
               right for you—or leave recruitment to us.
             </p>
-            <div className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#002d2e] text-white text-sm font-semibold hover:bg-[#004040] transition-colors cursor-pointer whitespace-nowrap">
+            <div className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#002d2e] text-white text-sm font-semibold hover:bg-[#004040] transition-colors cursor-pointer whitespace-nowrap" onClick={() => handleScroll("our-story")}>
               Our Story
             </div>
           </div>
