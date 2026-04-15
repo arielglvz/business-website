@@ -18,11 +18,11 @@ const OurStory = () => {
             </div>
             <div className="absolute -bottom-6 -right-4 md:right-8 bg-[#dfbea6] rounded-2xl p-5 max-w-50">
               <p className="text-[#002d2e] text-xs font-medium leading-relaxed">
-                “A vibrant city with a median age of 25, playing a vital role in
-                the Philippines' emerging economy.”
+                “Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Exercitationem!”
               </p>
               <p className="text-[#002d2e]/60 text-xs mt-2 font-semibold">
-                — Cebu City
+                — Lorem, ipsum.
               </p>
             </div>
           </div>
@@ -35,26 +35,26 @@ const OurStory = () => {
               <span className="color: rgb(223, 190, 166)">of working</span>
             </h2>
             <p className="text-white/70 text-base leading-relaxed mb-5">
-              Remote hiring is a practical alternative and long-term solution to
-              business growth—but it should be done the right way. At Apteum,
-              that means treating all clients, collaborators, contractors and
-              staff with the utmost respect.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi
+              officiis sunt iusto veniam deserunt excepturi aspernatur minima
+              esse quos necessitatibus voluptatum iure eum cupiditate similique,
+              molestias voluptatibus debitis distinctio quod.
             </p>
             <p className="text-white/70 text-base leading-relaxed mb-5">
-              Initially created to provide operational support for our growing
-              businesses, we quickly realised we had a talent acquisition
-              service that could benefit companies across Australia and the
-              world.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque
+              illum consectetur voluptatum nemo ut odio perspiciatis a id
+              molestias omnis!
             </p>
             <p className="text-white/70 text-base leading-relaxed mb-10">
-              In 2023, we established our own office in Cebu City, situated in
-              the Cebu I.T. Park—a district focused on international business
-              that services companies around the world.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              voluptatem numquam minima dolores voluptate esse nostrum delectus,
+              suscipit similique quae saepe consequuntur adipisci deserunt,
+              nulla quis quisquam ea. Consectetur, sit.
             </p>
             <div className="grid grid-cols-2 gap-5">
               <div className="border border-white/10 rounded-xl p-4">
                 <p className="text-3xl font-bold text-[#dfbea6] mb-1">20+</p>
-                <p className="text-white/50 text-xs">Team members in Cebu</p>
+                <p className="text-white/50 text-xs">Team members</p>
               </div>
               <div className="border border-white/10 rounded-xl p-4">
                 <p className="text-3xl font-bold text-[#dfbea6] mb-1">2023</p>

@@ -14,7 +14,7 @@ const Home = ({ handleScroll }) => {
       <div className="relative z-10 w-full max-w-7xl mx-auto px-6 md:px-10">
         <div className="max-w-xl">
           <span className="inline-block mb-5 px-4 py-1.5 rounded-full border border-white/40 text-white/80 text-xs font-medium tracking-widest uppercase">
-            Melbourne & Cebu City
+            lorem ipsum dolor sit amet
           </span>
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
             You can
@@ -22,8 +22,8 @@ const Home = ({ handleScroll }) => {
             <span className="text-[rgb(223,190,166)]">count on us.</span>
           </h1>
           <p className="text-white/80 text-base md:text-lg leading-relaxed mb-10 max-w-md">
-            Apteum pairs you with professionals abroad to build bespoke staffing
-            solutions tailored to your business.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Consectetur, ducimus.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <div

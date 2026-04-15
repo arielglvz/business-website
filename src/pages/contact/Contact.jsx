@@ -20,8 +20,8 @@ const Contact = ({ handleScroll }) => {
               <span className="text-[rgb(223, 190, 166)]">started?</span>
             </h2>
             <p className="text-white/60 text-base leading-relaxed mb-10 max-w-sm">
-              Tell us about your business and what you're looking for. Our team
-              will be in touch within one business day.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Voluptatibus, porro.
             </p>
             <div className="flex flex-col gap-5">
               <div className="flex items-center gap-4">
@@ -31,7 +31,7 @@ const Contact = ({ handleScroll }) => {
                 <div className="">
                   <p className="text-white/40 text-xs mb-0.5">Offices</p>
                   <p className="text-white text-sm">
-                    Melbourne, Australia & Cebu City, Philippines
+                    Lorem ipsum, dolor sit amet consectetur adipisicing.
                   </p>
                 </div>
               </div>
@@ -51,7 +51,7 @@ const Contact = ({ handleScroll }) => {
                 <div className="">
                   <p className="text-white/40 text-xs mb-0.5">Offices</p>
                   <p className="text-white text-sm">
-                    Melbourne, Australia & Cebu City, Philippines
+                    Lorem ipsum, dolor sit amet consectetur adipisicing.
                   </p>
                 </div>
               </div>

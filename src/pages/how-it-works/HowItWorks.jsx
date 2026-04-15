@@ -21,7 +21,10 @@ const HowItWorks = ({ handleScroll }) => {
               an extension of your business. You hand-select the people who are
               right for you—or leave recruitment to us.
             </p>
-            <div className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#002d2e] text-white text-sm font-semibold hover:bg-[#004040] transition-colors cursor-pointer whitespace-nowrap" onClick={() => handleScroll("our-story")}>
+            <div
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#002d2e] text-white text-sm font-semibold hover:bg-[#004040] transition-colors cursor-pointer whitespace-nowrap"
+              onClick={() => handleScroll("our-story")}
+            >
               Our Story
             </div>
           </div>

@@ -26,23 +26,23 @@ const Services = ({ handleScroll }) => {
                 Technology
               </h3>
               <p className="text-sm text-gray-500 leading-relaxed">
-                Software and data engineers familiar with various coding
-                languages, methodologies and programs. Skilled UX/UI designers,
-                quality assurance and testing specialists.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
+                facere consequatur, fuga perferendis ducimus repellat maxime.
+                Iste tempora debitis quis!
               </p>
             </div>
             <div className="flex flex-wrap gap-2 mt-auto pt-2">
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Software Engineering
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Data Engineering
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                UX/UI Design
+                lorem ipsum
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                QA & Testing
+                Lorem, ipsum dolor
               </span>
             </div>
           </div>
@@ -55,23 +55,23 @@ const Services = ({ handleScroll }) => {
                 Accounting & Bookkeeping
               </h3>
               <p className="text-sm text-gray-500 leading-relaxed">
-                Chartered accountants and CPAs expert in Australian law and
-                compliance. Highly proficient with Xero and MYOB, assisting with
-                taxes, financial statements, and account management.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit
+                deleniti nulla ad odio quaerat quos doloremque. Amet eius
+                eligendi sapiente!
               </p>
             </div>
             <div className="flex flex-wrap gap-2 mt-auto pt-2">
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Xero
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                MYOB
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Tax Compliance
+                lorem ipsum
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Financial Statements
+                Lorem, ipsum dolor
               </span>
             </div>
           </div>
@@ -84,23 +84,23 @@ const Services = ({ handleScroll }) => {
                 Technology
               </h3>
               <p className="text-sm text-gray-500 leading-relaxed">
-                Software and data engineers familiar with various coding
-                languages, methodologies and programs. Skilled UX/UI designers,
-                quality assurance and testing specialists.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Et,
+                omnis quos dignissimos quia dolores iure illum quod optio hic
+                consequatur.
               </p>
             </div>
             <div className="flex flex-wrap gap-2 mt-auto pt-2">
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Software Engineering
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                Data Engineering
+                lorem
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                UX/UI Design
+                lorem ipsum
               </span>
               <span className="px-3 py-1 rounded-full bg-[#edf4f3] text-[#002d2e] text-xs font-medium">
-                QA & Testing
+                Lorem, ipsum dolor
               </span>
             </div>
           </div>

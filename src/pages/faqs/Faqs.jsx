@@ -19,8 +19,8 @@ const Faqs = ({ handleScroll }) => {
               Frequently <br /> asked questions
             </h2>
             <p className="text-gray-500 text-base leading-relaxed mb-8 max-w-sm">
-              Can't find the answer you're looking for? Reach out to our team
-              and we'll be happy to help.
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. In eos
+              itaque laudantium.
             </p>
             <div
               className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#002d2e] text-white text-sm font-semibold hover:bg-[#004040] transition-colors cursor-pointer whitespace-nowrap"

@@ -1,4 +1,4 @@
-import CompanyLogo from "@/assets/svg/logo.svg?react"
+import { LogoPlaceholder } from "@/assets/svg"
 import { navigations } from "@/data/navigation"
 import { RiLinkedinFill, RiInstagramLine } from "react-icons/ri"
 
@@ -8,10 +8,10 @@ const Footer = ({ handleScroll }) => {
       <div className="max-w-7xl mx-auto px-6 md:px-10">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 pb-12 border-b border-[#002d2e]/10">
           <div className="md:col-span-1">
-            <CompanyLogo className="h-8 w-auto mb-4" />
+            <LogoPlaceholder className="h-8 w-auto mb-4" />
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
-              Building genuine and lasting relationships with the people who
-              support your business.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima,
+              iste!
             </p>
             <div className="flex items-center gap-3 mt-5">
               <div className="w-8 h-8 flex items-center justify-center rounded-full bg-[#002d2e]/10 text-[#002d2e] hover:bg-[#002d2e] hover:text-white transition-colors cursor-pointer">
@@ -72,11 +72,9 @@ const Footer = ({ handleScroll }) => {
             className="text-xs text-gray-400"
             // contenteditable="false"
           >
-            © 2026 Apteum. All Rights Reserved.
+            © 2026 lorem. All Rights Reserved.
           </p>
-          <p className="text-xs text-gray-400">
-            Melbourne, Australia & Cebu City, Philippines
-          </p>
+          <p className="text-xs text-gray-400">Lorem ipsum dolor sit amet.</p>
         </div>
       </div>
     </footer>
